@@ -12,3 +12,9 @@
 ```shell
 python train.py --algo PPO --log-dir data/PPO_gamma_1 --input-length 10
 ```
+
+Tensorboard visualization: 
+```shell
+tensorboard --logdir=data/PPO_gamma_1/runs/ --port={port_num}
+```
+Note that all the experiments above will save the tensorboard log file in data/PPO_gamma_1/runs/ directory
