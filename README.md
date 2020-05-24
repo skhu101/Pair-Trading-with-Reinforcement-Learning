@@ -6,7 +6,7 @@
   * torchvision>=0.2.1
   * tensorboardX
   
-* PPO codes are borrowed from the course assignment https://github.com/cuhkrlcourse/ierg6130-assignment/tree/master/assignment4
+* PPO codes are borrowed from the course assignment4 https://github.com/cuhkrlcourse/ierg6130-assignment/tree/master/assignment4
 
 ### Usage
 ```shell
